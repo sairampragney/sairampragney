@@ -1,15 +1,14 @@
-### Hi, I'm Sairam 👋
+# Sai Ram Pragney Murikipudi
 
-CS student (B.Tech CSIT, KLH University) building strong fundamentals in DSA, full-stack development, and problem-solving — aiming for a top-tier tech placement.
+B.Tech CSIT student at KLH University, focused on building strong fundamentals in Data Structures & Algorithms, full-stack development, and software engineering practices.
 
-🔭 **Currently learning:** Java for DSA & placement prep, brushing up Python fundamentals
-🧠 **Practicing:** Data Structures & Algorithms (pattern-based approach)
-🛠️ **Building:** Full-stack projects with React, Node.js, and Express
-🌱 **Exploring:** Backend fundamentals and system design basics
+## Currently
 
----
+- Learning Java for Data Structures & Algorithms and placement preparation
+- Strengthening Python fundamentals
+- Building full-stack projects using React, Node.js, and Express
 
-**Tech Stack**
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -17,13 +16,11 @@ CS student (B.Tech CSIT, KLH University) building strong fundamentals in DSA, fu
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
----
+## GitHub Stats
 
-**My GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sairampragney&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sairampragney&layout=compact&theme=default&hide_border=true)
 
-![Sairam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sairampragney&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sairampragney&layout=compact&theme=dark&hide_border=true)
+## Connect
 
----
-
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sai-ram-pragney-murikipudi-74440b374/)
+[LinkedIn](https://www.linkedin.com/in/sai-ram-pragney-murikipudi-74440b374/)

@@ -16,11 +16,6 @@ B.Tech CSIT student at KLH University, focused on building strong fundamentals i
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sairampragney&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sairampragney&layout=compact&theme=default&hide_border=true)
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/sai-ram-pragney-murikipudi-74440b374/)

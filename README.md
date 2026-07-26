@@ -1,21 +1,38 @@
-# Sai Ram Pragney Murikipudi
+<div align="center">
 
-B.Tech CSIT student at KLH University, focused on building strong fundamentals in Data Structures & Algorithms, full-stack development, and software engineering practices.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=180&section=header&text=Sai%20Ram%20Pragney%20Murikipudi&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=B.Tech%20CSIT%20%7C%20KLH%20University&descAlignY=62&descSize=15" width="100%"/>
 
-## Currently
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-ram-pragney-murikipudi-74440b374/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sairampragney)
 
-- Learning Java for Data Structures & Algorithms and placement preparation
-- Strengthening Python fundamentals
-- Building full-stack projects using React, Node.js, and Express
+</div>
 
-## Tech Stack
+<br>
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+```bash
+$ cat profile.txt
 
-## Connect
+ROLE        : B.Tech CSIT Student — KLH University, Hyderabad
+FOCUS       : Data Structures & Algorithms (Java) · Placement Preparation
+STACK       : Java · Python · JavaScript · React · Node.js
+APPROACH    : Pattern-based problem solving, fundamentals-first
+STATUS      : Actively building — DSA repository and full-stack projects in progress
+```
 
-[LinkedIn](https://www.linkedin.com/in/sai-ram-pragney-murikipudi-74440b374/)
+<br>
+
+<div align="center">
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,git,github,vscode" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
+
+</div>

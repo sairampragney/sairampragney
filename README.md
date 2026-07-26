@@ -21,9 +21,7 @@ AI & LLM Applications
 
 Open to collaborating on open-source projects and continuously improving through hands-on learning.
 
-<br> <div align="center">
-📊 Contribution Activity
-<img src="https://ghchart.rshah.org/1e3a8a/sairampragney" alt="Sai Ram's GitHub contribution graph" width="100%" /> </div> <br>
+<br>
 bash
 $ cat profile.txt
 

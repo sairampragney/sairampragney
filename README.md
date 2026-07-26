@@ -21,7 +21,9 @@ AI & LLM Applications
 
 Open to collaborating on open-source projects and continuously improving through hands-on learning.
 
-<br>
+<br> <div align="center">
+📊 Contribution Activity
+<img src="https://ghchart.rshah.org/1e3a8a/sairampragney" alt="Sai Ram's GitHub contribution graph" width="100%" /> </div> <br>
 bash
 $ cat profile.txt
 
@@ -32,6 +34,4 @@ APPROACH    : Pattern-based problem solving, fundamentals-first
 STATUS      : Actively building — DSA repository and full-stack projects in progress
 <br> <div align="center">
 Tech Stack
-<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,git,github,vscode" /> </div> <br>
-Contribution Graph
-<div align="center"> <img src="https://ghchart.rshah.org/1e3a8a/sairampragney" alt="Sai Ram's GitHub contribution graph" width="100%" /> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/> </div>
+<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,git,github,vscode" /> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/> </div>

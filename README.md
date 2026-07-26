@@ -12,6 +12,15 @@ Passionate about building software and solving real-world problems through AI, m
 Currently learning:
 
 Python
+<br>
+
+<pre>
+ROLE        : B.Tech CSIT Student — KLH University, Hyderabad
+FOCUS       : Data Structures & Algorithms (Java) · Placement Preparation
+STACK       : Java · Python · JavaScript · React · Node.js
+APPROACH    : Pattern-based problem solving, fundamentals-first
+STATUS      : Actively building — DSA repository and full-stack projects in progress
+</pre>
 Data Structures & Algorithms
 Linux
 SQL & Databases
@@ -21,15 +30,6 @@ AI & LLM Applications
 
 Open to collaborating on open-source projects and continuously improving through hands-on learning.
 
-<br>
-bash
-$ cat profile.txt
 
-ROLE        : B.Tech CSIT Student — KLH University, Hyderabad
-FOCUS       : Data Structures & Algorithms (Java) · Placement Preparation
-STACK       : Java · Python · JavaScript · React · Node.js
-APPROACH    : Pattern-based problem solving, fundamentals-first
-STATUS      : Actively building — DSA repository and full-stack projects in progress
-<br> <div align="center">
 Tech Stack
 <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,git,github,vscode" /> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/> </div>

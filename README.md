@@ -2,7 +2,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/sai-ram-pragney-murikipudi-74440b374//YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=00A8E8" /></a> <a href="https://github.com/sairampragney"><img src="https://img.shields.io/badge/GitHub-16497D?style=for-the-badge&logo=github&logoColor=E8F4FC" /></a> <a href="mailto:sairampragney@gmail.com"><img src="https://img.shields.io/badge/Email-00A8E8?style=for-the-badge&logo=gmail&logoColor=0A1128" /></a>
+<a href="https://www.linkedin.com/in/sai-ram-pragney-murikipudi-74440b374/"><img src="https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=00A8E8" /></a> <a href="https://github.com/sairampragney"><img src="https://img.shields.io/badge/GitHub-16497D?style=for-the-badge&logo=github&logoColor=E8F4FC" /></a> <a href="mailto:sairampragney@gmail.com"><img src="https://img.shields.io/badge/Email-00A8E8?style=for-the-badge&logo=gmail&logoColor=0A1128" /></a>
 
 </div> <br/>
 About

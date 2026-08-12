@@ -15,15 +15,10 @@ Currently learning: Data Structures & Algorithms (Java)
 
 <br/> <pre> ROLE : B.Tech CSIT Student — KLH University, Hyderabad FOCUS : Data Structures & Algorithms (Java) · Placement Preparation STACK : Java · Python · JavaScript · React · Node.js APPROACH : Pattern-based problem solving, fundamentals-first STATUS : Actively building — DSA repository and full-stack projects in progress </pre> <br/> <div align="center">
 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=java,py,js,react,nodejs,git,github,vscode,mongodb,express&theme=dark&perline=5" /> </div> <br/> <table align="center" width="100%"> <tr> <td width="50%" valign="top">
 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=sairampragney&show_icons=true&hide_border=true&theme=transparent&title_color=00A8E8&icon_color=16497D&text_color=C7E3F5&bg_color=00000000" width="100%"/> </td> <td width="50%" valign="top">
 🔥 Streak
-<img src="https://streak-stats.demolab.com?user=sairampragney&hide_border=true&theme=transparent&background=00000000&ring=16497D&fire=00A8E8&currStreakLabel=C7E3F5&sideNums=C7E3F5&sideLabels=C7E3F5&currStreakNum=E8F4FC&dates=0A1128" width="100%"/> </td> </tr> </table> <div align="center">
 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairampragney&layout=compact&hide_border=true&theme=transparent&title_color=00A8E8&text_color=C7E3F5&bg_color=00000000" width="45%"/> </div> <br/> <div align="center">
 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sairampragney&theme=minimal&hide_border=true&color=00A8E8&line=16497D&point=E8F4FC&area=true&area_color=0A1128&bg_color=00000000" width="90%"/> </div> <br/>
 📌 Currently Learning
 Data Structures & Algorithms (Striver's A2Z Sheet)
 Full-Stack Web Development (MERN)
@@ -31,5 +26,3 @@ Blue Team Cybersecurity Fundamentals
 🤝 Open to Collaborating On
 
 Open-source projects · DSA pattern repositories · Full-stack web apps
-
-<br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,50:16497D,100:0A1128&height=120&section=footer" width="100%"/> </div>

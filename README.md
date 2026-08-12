@@ -5,15 +5,15 @@
 <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=00A8E8" /></a> <a href="https://github.com/sairampragney"><img src="https://img.shields.io/badge/GitHub-16497D?style=for-the-badge&logo=github&logoColor=E8F4FC" /></a> <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-00A8E8?style=for-the-badge&logo=gmail&logoColor=0A1128" /></a>
 
 </div> <br/>
+About
 
+B.Tech Computer Science Student | AI & Data Science Enthusiast
 
-role     : B.Tech CSIT Student — KLH University, Hyderabad (Batch 2025–2029)
-focus    : Data Structures & Algorithms (Java) · Placement Preparation
-stack    : Java · Python · JavaScript · React · Node.js
-approach : Pattern-based problem solving, fundamentals-first
-status   : Actively building — DSA repository & full-stack projects in progress
-goal     : Highest-package placement at a top-tier tech company
-<br/> <div align="center">
+Passionate about building software and solving real-world problems through AI, machine learning, and full-stack development.
+
+Currently learning: Data Structures & Algorithms (Java)
+
+<br/> <pre> ROLE : B.Tech CSIT Student — KLH University, Hyderabad FOCUS : Data Structures & Algorithms (Java) · Placement Preparation STACK : Java · Python · JavaScript · React · Node.js APPROACH : Pattern-based problem solving, fundamentals-first STATUS : Actively building — DSA repository and full-stack projects in progress </pre> <br/> <div align="center">
 🛠️ Tech Stack
 <img src="https://skillicons.dev/icons?i=java,py,js,react,nodejs,git,github,vscode,mongodb,express&theme=dark&perline=5" /> </div> <br/> <table align="center" width="100%"> <tr> <td width="50%" valign="top">
 📊 GitHub Stats

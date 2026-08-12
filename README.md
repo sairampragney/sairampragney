@@ -13,22 +13,17 @@ Passionate about building software and solving real-world problems through AI, m
 
 Currently learning: Data Structures & Algorithms (Java)
 
-<br/> <pre> ROLE : B.Tech CSIT Student — KLH University, Hyderabad FOCUS : Data Structures & Algorithms (Java) · Placement Preparation STACK : Java · Python · JavaScript · React · Node.js APPROACH : Pattern-based problem solving, fundamentals-first STATUS : Actively building — DSA repository and full-stack projects in progress </pre> <br/> <div align="center">
-🛠️ Tech Stack
-📊 GitHub Stats
-<br/>
-🔥 Streak
-</div>
-💻 Most Used Languages
-</div>
-📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sairampragney&theme=minimal&hide_border=true&color=00A8E8&line=16497D&point=E8F4FC&area=true&area_color=0A1128&bg_color=00000000" width="100%"/></div><br/>
-📌 Currently Learning
-Data Structures & Algorithms (Striver's A2Z Sheet)
-Full-Stack Web Development (MERN)
-Blue Team Cybersecurity Fundamentals
-🤝 Open to Collaborating On
+<br/> <pre> ROLE : B.Tech CSIT Student — KLH University, Hyderabad FOCUS : Data Structures & Algorithms (Java) · Placement Preparation STACK : Java · Python · JavaScript · React · Node.js APPROACH : Pattern-based problem solving, fundamentals-first STATUS : Actively building — DSA repository and full-stack projects in progress </pre> <br/> <div align="center"> <br/></div></div><img src="https://github-readme-activity-graph.vercel.app/graph?username=sairampragney&theme=minimal&hide_border=true&color=00A8E8&line=16497D&point=E8F4FC&area=true&area_color=0A1128&bg_color=00000000" width="100%"/></div><br/>
 
 Open-source projects · DSA pattern repositories · Full-stack web apps
 
 <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,50:16497D,100:0A1128&height=120&section=footer" width="100%"/> </div>
+🛠️ Tech Stack
+📊 GitHub Stats
+🔥 Streak
+💻 Most Used Languages
+📈 Contribution Graph
+📌 Currently Learning
+Data Structures & Algorithms (Striver's A2Z Sheet)
+Full-Stack Web Development (MERN)
+Blue Team Cybersecurity Fundamentals

@@ -5,8 +5,8 @@
 <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=00A8E8" /></a> <a href="https://github.com/sairampragney"><img src="https://img.shields.io/badge/GitHub-16497D?style=for-the-badge&logo=github&logoColor=E8F4FC" /></a> <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-00A8E8?style=for-the-badge&logo=gmail&logoColor=0A1128" /></a>
 
 </div> <br/>
-whoami
-yaml
+
+
 role     : B.Tech CSIT Student — KLH University, Hyderabad (Batch 2025–2029)
 focus    : Data Structures & Algorithms (Java) · Placement Preparation
 stack    : Java · Python · JavaScript · React · Node.js

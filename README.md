@@ -5,13 +5,32 @@
 <a href="https://www.linkedin.com/in/sai-ram-pragney-murikipudi-74440b374/"><img src="https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=00A8E8" /></a> <a href="https://github.com/sairampragney"><img src="https://img.shields.io/badge/GitHub-16497D?style=for-the-badge&logo=github&logoColor=E8F4FC" /></a> <a href="mailto:sairampragney@gmail.com"><img src="https://img.shields.io/badge/Email-00A8E8?style=for-the-badge&logo=gmail&logoColor=0A1128" /></a>
 
 </div> <br/>
-About
+About Me
 
-B.Tech Computer Science Student | AI & Data Science Enthusiast
+B.Tech Computer Science & Information Technology student at KLH University, Hyderabad.
 
-Passionate about building software and solving real-world problems through AI, machine learning, and full-stack development.
+🎯 Current Focus
 
-Currently learning: Data Structures & Algorithms (Java)
+Python programming and hands-on projects
+Java and Data Structures & Algorithms
+Linux and system fundamentals
+SQL and Database Management
+Git and GitHub
+Web Development
+AI and Generative AI fundamentals
+
+📚 Currently Learning
+
+Python through practical projects
+Java for DSA and problem solving
+Linux and command-line fundamentals
+SQL, DBMS and database concepts
+Web development with JavaScript and modern tools
+AI, LLMs and RAG fundamentals
+
+🚀 Goal
+
+To build strong programming and computer-science fundamentals, develop real-world projects, and grow toward a career in software engineering and AI.
 
 <br/> <pre> ROLE : B.Tech CSIT Student — KLH University FOCUS : Data Structures & Algorithms (Java) STACK : Java · Python · JavaScript · React · Node.js APPROACH : Pattern-based problem solving, fundamentals-first STATUS : Actively building — DSA & full-stack projects </pre> <br/> <div align="center">
 🛠️ Tech Stack
@@ -30,7 +49,3 @@ Full-Stack Web Development (MERN)
 Blue Team Cybersecurity Fundamentals
 <br/>
 🤝 Open to Collaborating On
-
-Open-source projects · DSA pattern repositories · Full-stack web apps
-
-<br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,50:16497D,100:0A1128&height=120&section=footer" width="100%"/> </div>

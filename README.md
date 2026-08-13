@@ -32,7 +32,11 @@ AI, LLMs and RAG fundamentals
 
 To build strong programming and computer-science fundamentals, develop real-world projects, and grow toward a career in software engineering and AI.
 
-<br/> <pre> ROLE : B.Tech CSIT Student — KLH University FOCUS : Data Structures & Algorithms (Java) STACK : Java · Python · JavaScript · React · Node.js APPROACH : Pattern-based problem solving, fundamentals-first STATUS : Actively building — DSA & full-stack projects </pre> <br/> <div align="center">
+<br/>
+
+ROLE : B.Tech CSIT Student — KLH University <br/> FOCUS : Data Structures & Algorithms (Java) <br/> STACK : Java · Python · JavaScript · React · Node.js <br/> APPROACH : Pattern-based problem solving, fundamentals-first <br/> STATUS : Actively building — DSA & full-stack projects
+
+<br/> <div align="center">
 🛠️ Tech Stack
 <img src="https://skillicons.dev/icons?i=java,py,js,react,nodejs,git,github,vscode,mongodb,express&theme=dark&perline=5" /> </div> <br/> <div align="center">
 📊 GitHub Stats
@@ -49,3 +53,7 @@ Full-Stack Web Development (MERN)
 Blue Team Cybersecurity Fundamentals
 <br/>
 🤝 Open to Collaborating On
+
+Open-source projects · DSA pattern repositories · Full-stack web apps
+
+<br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,50:16497D,100:0A1128&height=120&section=footer" width="100%"/> </div>

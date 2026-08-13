@@ -48,12 +48,12 @@ ROLE : B.Tech CSIT Student — KLH University <br/> FOCUS : Data Structures & Al
 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sairampragney&theme=minimal&hide_border=true&color=00A8E8&line=16497D&point=E8F4FC&area=true&area_color=0A1128&bg_color=00000000" width="100%"/> </div> <br/>
 📌 Currently Learning
-Data Structures & Algorithms (Striver's A2Z Sheet)
+Data Structures & Algorithms 
 Full-Stack Web Development (MERN)
 Blue Team Cybersecurity Fundamentals
 <br/>
-🤝 Open to Collaborating On
 
-Open-source projects · DSA pattern repositories · Full-stack web apps
+
+
 
 <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,50:16497D,100:0A1128&height=120&section=footer" width="100%"/> </div>

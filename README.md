@@ -1,6 +1,6 @@
 <!-- Terminal header -->
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/sairampragney/sairampragney/main/assets/header.svg" alt="Sai Ram Pragney Murikipudi - Aspiring Software Engineer" />
+  <img width="100%" src="https://raw.githubusercontent.com/sairampragney/sairampragney/main/header.svg" alt="Sai Ram Pragney Murikipudi - Aspiring Software Engineer" />
 
   <br/>
 
@@ -97,18 +97,6 @@ Building and refining projects while learning how their underlying systems work.
 
 <br/>
 
-## `> contributions`
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sairampragney/sairampragney/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sairampragney/sairampragney/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sairampragney/sairampragney/output/github-snake.svg" />
-  </picture>
-</div>
-
-<br/>
-
 ## `> long_term_direction`
 
 Working toward a career in software engineering by strengthening computer science fundamentals, building meaningful projects, and gradually contributing to open source.
@@ -117,5 +105,5 @@ Working toward a career in software engineering by strengthening computer scienc
 
 <div align="center">
   <sub>Learning consistently. Building deliberately. Improving every day.</sub>
-  <img width="100%" src="https://raw.githubusercontent.com/sairampragney/sairampragney/main/assets/footer.svg" alt="" />
+  <img width="100%" src="https://raw.githubusercontent.com/sairampragney/sairampragney/main/footer.svg" alt="" />
 </div>

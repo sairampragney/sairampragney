@@ -1,86 +1,69 @@
-<div align="center">
+<!-- Animated header --> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Sai%20Ram%20Pragney%20Murikipudi&fontColor=FFFFFF&fontSize=40&fontAlignY=36&animation=fadeIn&desc=Aspiring%20Software%20Engineer%20%7C%20B.Tech%20CSIT%20%40%20KLH%20University&descSize=17&descAlignY=58" alt="Sai Ram Pragney Murikipudi - Aspiring Software Engineer" /> <!-- Typing animation --> <a href="https://github.com/sairampragney"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Exploring+Java%2C+systems+programming+and+AI;Building+practical+software+projects;Learning+Linux+and+core+CS+fundamentals;Preparing+for+structured+DSA+practice" alt="Typing animation" /> </a> <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:16497D,100:00A8E8&height=220&section=header&text=SAI%20RAM%20PRAGNEY%20MURIKIPUDI&fontSize=38&fontColor=E8F4FC&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSIT%20%7C%20KLH%20University&descAlignY=58&descSize=18&descAlign=50" width="100%"/>
+<a href="https://github.com/sairampragney"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/sai-ram-pragney-murikipudi-74440b374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <img src="https://komarev.com/ghpvc/?username=sairampragney&label=Profile%20Views&color=1F6FEB&style=for-the-badge" alt="Profile views" />
+
+</div> <br/>
+> about
+
+I'm a B.Tech Computer Science and Information Technology student at KLH University, Hyderabad, interested in understanding how software works and building practical applications.
+
+	Focus	Details
+☕	Java	Strengthening programming fundamentals and object-oriented design
+🐍	Python	Building skills in machine learning and AI-powered applications
+🧠	DSA	Preparing for structured data structures and algorithms practice
+🖥️	Systems	Exploring Linux, operating systems and low-level programming
+🧊	UI Design	Glassmorphism, clean layouts and subtle visual details
+<br/>
+> currently_focused_on
+yaml
+focus:
+  - Strengthening Java fundamentals and OOP
+  - Developing practical software projects
+  - Learning Linux and core computer science concepts
+  - Preparing for structured Java + DSA practice
+<br/>
+> projects
+
+Building and refining projects while learning how their underlying systems work.
+
+Project	Description	Stack
+PixelCheck	AI-powered deepfake detection and image forensics	React FastAPI Firebase
+Linux File System	File operations using C and Linux/POSIX system calls	C Linux POSIX
+Disaster Management System	Web application for disaster alerts and community response	React Express MySQL
+Smart Classroom Monitoring	IoT project combining sensors, Arduino and software	Arduino IoT Sensors
+
+<sub>Project descriptions reflect the current implementation status of each repository.</sub>
 
 <br/>
+> tech_stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00A8E8&center=true&vCenter=true&width=560&lines=Building+real+projects+one+commit+at+a+time;DSA+%7C+Java+%2B+JavaScript;Full-Stack+Dev+in+progress;Currently+deep+in+DSA+%26+System+Design" alt="Typing SVG" />
+Languages
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c&theme=dark" alt="Java, Python, JavaScript, TypeScript, C" />
 
-<a href="https://www.linkedin.com/in/sai-ram-pragney-murikipudi-74440b374/"><img src="https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=00A8E8" /></a>
-<a href="https://github.com/sairampragney"><img src="https://img.shields.io/badge/GitHub-16497D?style=for-the-badge&logo=github&logoColor=E8F4FC" /></a>
-<a href="mailto:sairampragney@gmail.com"><img src="https://img.shields.io/badge/Email-00A8E8?style=for-the-badge&logo=gmail&logoColor=0A1128" /></a>
+Web
 
-</div>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi&theme=dark" alt="React, Node.js, Express, FastAPI" />
 
-<br/>
+Databases & Platforms
 
-### About Me
+<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,docker,linux&theme=dark" alt="MySQL, Firebase, Git, GitHub, Docker, Linux" />
 
-B.Tech Computer Science & Information Technology student at KLH University, Hyderabad.
+Areas I'm exploring
 
-**🎯 Current Focus**
-- Python programming and hands-on projects
-- Java and Data Structures & Algorithms
-- Linux and system fundamentals
-- SQL and Database Management
-- Git and GitHub
-- Web Development
-- AI and Generative AI fundamentals
+<img src="https://img.shields.io/badge/DSA-Algorithms-1F6FEB?style=flat-square&logo=thealgorithms&logoColor=white" alt="DSA" /> <img src="https://img.shields.io/badge/Systems-Linux-0D1117?style=flat-square&logo=linux&logoColor=white" alt="Systems" /> <img src="https://img.shields.io/badge/AI%2FML-Foundations-1F6FEB?style=flat-square&logo=python&logoColor=white" alt="AI/ML" /> <img src="https://img.shields.io/badge/IoT-Embedded-0D1117?style=flat-square&logo=arduino&logoColor=white" alt="IoT" /> <img src="https://img.shields.io/badge/Cybersecurity-Basics-1F6FEB?style=flat-square&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
 
-**📚 Currently Learning**
-- Python through practical projects
-- Java for DSA and problem solving
-- Linux and command-line fundamentals
-- SQL, DBMS and database concepts
-- Web development with JavaScript and modern tools
-- AI, LLMs and RAG fundamentals
-
-**🚀 Goal**
-
-To build strong programming and computer-science fundamentals, develop real-world projects, and grow toward a career in software engineering and AI.
+<sub>These are tools I've worked with and areas I'm exploring, not equal proficiency in every technology.</sub>
 
 <br/>
+> github_stats
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=sairampragney&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub statistics" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairampragney&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" /> <br/> <img src="https://streak-stats.demolab.com?user=sairampragney&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" /> </div> <br/>
+> activity
+<div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sairampragney&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true" alt="Contribution activity graph" /> </div> <br/>
+> contributions
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sairampragney/sairampragney/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sairampragney/sairampragney/output/github-snake.svg" /> <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sairampragney/sairampragney/output/github-snake.svg" /> </picture> </div> <br/>
+> long_term_direction
 
-**ROLE** : B.Tech CSIT Student — KLH University
-<br/>
-**FOCUS** : Data Structures & Algorithms (Java)
-<br/>
-**STACK** : Java · Python · JavaScript · React · Node.js
-<br/>
-**APPROACH** : Pattern-based problem solving, fundamentals-first
-<br/>
-**STATUS** : Actively building — DSA & full-stack projects
+Working toward a career in software engineering by strengthening computer science fundamentals, building meaningful projects, and gradually contributing to open source.
 
-<br/>
-
-<div align="center">
-
-### 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=java,py,js,react,nodejs,git,github,vscode,mongodb,express&theme=dark&perline=5" />
-
-</div>
-
-<br/>
-
-### 📌 Currently Learning
-
-- Data Structures & Algorithms (Striver's A2Z Sheet)
-- Full-Stack Web Development (MERN)
-- Blue Team Cybersecurity Fundamentals
-
-<br/>
-
-### 🤝 Open to Collaborating On
-
-Open-source projects · DSA pattern repositories · Full-stack web apps
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,50:16497D,100:0A1128&height=120&section=footer" width="100%"/>
-
-</div>
+<br/> <div align="center"> <sub>Learning consistently. Building deliberately. Improving every day.</sub> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58A6FF,50:1F6FEB,100:0D1117&section=footer&reversal=true" alt="" /> </div>

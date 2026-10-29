@@ -1,4 +1,4 @@
-<!-- Animated header --> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Sai%20Ram%20Pragney%20Murikipudi&fontColor=FFFFFF&fontSize=40&fontAlignY=36&animation=fadeIn&desc=Aspiring%20Software%20Engineer%20%7C%20B.Tech%20CSIT%20%40%20KLH%20University&descSize=17&descAlignY=58" alt="Sai Ram Pragney Murikipudi - Aspiring Software Engineer" /> <!-- Typing animation --> <a href="https://github.com/sairampragney"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Exploring+Java%2C+systems+programming+and+AI;Building+practical+software+projects;Learning+Linux+and+core+CS+fundamentals;Preparing+for+structured+DSA+practice" alt="Typing animation" /> </a> <br/>
+<!-- Terminal header --> <div align="center"> <img width="100%" src="assets/header.svg" alt="Sai Ram Pragney Murikipudi - Aspiring Software Engineer" /> <br/>
 
 <a href="https://github.com/sairampragney"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/sai-ram-pragney-murikipudi-74440b374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <img src="https://komarev.com/ghpvc/?username=sairampragney&label=Profile%20Views&color=1F6FEB&style=for-the-badge" alt="Profile views" />
 
@@ -66,4 +66,4 @@ Areas I'm exploring
 
 Working toward a career in software engineering by strengthening computer science fundamentals, building meaningful projects, and gradually contributing to open source.
 
-<br/> <div align="center"> <sub>Learning consistently. Building deliberately. Improving every day.</sub> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58A6FF,50:1F6FEB,100:0D1117&section=footer&reversal=true" alt="" /> </div>
+<br/> <div align="center"> <sub>Learning consistently. Building deliberately. Improving every day.</sub> <img width="100%" src="assets/footer.svg" alt="" /> </div>

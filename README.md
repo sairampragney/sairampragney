@@ -1,4 +1,4 @@
-<!-- Terminal header --> <div align="center"> <img width="100%" src="assets/header.svg" alt="Sai Ram Pragney Murikipudi - Aspiring Software Engineer" /> <br/>
+<!-- Terminal header --> <div align="center"> <img width="100%" src="https://raw.githubusercontent.com/sairampragney/sairampragney/main/assets/header.svg" alt="Sai Ram Pragney Murikipudi - Aspiring Software Engineer" /> <br/>
 
 <a href="https://github.com/sairampragney"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/sai-ram-pragney-murikipudi-74440b374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <img src="https://komarev.com/ghpvc/?username=sairampragney&label=Profile%20Views&color=1F6FEB&style=for-the-badge" alt="Profile views" />
 
@@ -66,4 +66,4 @@ Areas I'm exploring
 
 Working toward a career in software engineering by strengthening computer science fundamentals, building meaningful projects, and gradually contributing to open source.
 
-<br/> <div align="center"> <sub>Learning consistently. Building deliberately. Improving every day.</sub> <img width="100%" src="assets/footer.svg" alt="" /> </div>
+<br/> <div align="center"> <sub>Learning consistently. Building deliberately. Improving every day.</sub> <img width="100%" src="https://raw.githubusercontent.com/sairampragney/sairampragney/main/assets/footer.svg" alt="" /> </div>

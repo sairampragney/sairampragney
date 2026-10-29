@@ -1,4 +1,8 @@
-<!-- Terminal header --> <div align="center"> <img width="100%" src="https://raw.githubusercontent.com/sairampragney/sairampragney/main/assets/header.svg" alt="Sai Ram Pragney Murikipudi - Aspiring Software Engineer" /> <br/>
+<!-- Terminal header --> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:0D1117,100:1F6FEB&text=Sai%20Ram%20Pragney%20Murikipudi&fontColor=FFFFFF&fontSize=38&fontAlignY=45&animation=fadeIn&desc=B.Tech%20CSIT%20%7C%20KLH%20University&descSize=16&descAlignY=72" alt="Sai Ram Pragney Murikipudi - Aspiring Software Engineer" />
+
+<a href="https://github.com/sairampragney"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=%24+whoami+%E2%86%92+Aspiring+Software+Engineer;Java+%7C+Python+%7C+C+%7C+React+%7C+Linux;Building+practical+software+projects" alt="Typing animation" /></a>
+
+<br/>
 
 <a href="https://github.com/sairampragney"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/sai-ram-pragney-murikipudi-74440b374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <img src="https://komarev.com/ghpvc/?username=sairampragney&label=Profile%20Views&color=1F6FEB&style=for-the-badge" alt="Profile views" />
 
@@ -66,4 +70,4 @@ Areas I'm exploring
 
 Working toward a career in software engineering by strengthening computer science fundamentals, building meaningful projects, and gradually contributing to open source.
 
-<br/> <div align="center"> <sub>Learning consistently. Building deliberately. Improving every day.</sub> <img width="100%" src="https://raw.githubusercontent.com/sairampragney/sairampragney/main/assets/footer.svg" alt="" /> </div>
+<br/> <div align="center"> <sub>Learning consistently. Building deliberately. Improving every day.</sub> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:1F6FEB,100:0D1117&section=footer" alt="" /> </div>

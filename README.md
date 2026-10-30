@@ -1,4 +1,4 @@
-<!-- Terminal header --> <div align="center"> <img width="100%" src="https://raw.githubusercontent.com/sairampragney/sairampragney/main/header.svg" alt="Sai Ram Pragney Murikipudi - Aspiring Software Engineer" /> <br/>
+<!-- Terminal header --> <div align="center"> <img width="100%" src="https://raw.githubusercontent.com/sairampragney/sairampragney/main/header.svg" alt="SAI RAM PRAGNEY MURIKIPUDI - Aspiring Software Engineer" /> <br/>
 
 <a href="https://github.com/sairampragney"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/sai-ram-pragney-murikipudi-74440b374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <img src="https://komarev.com/ghpvc/?username=sairampragney&label=Profile%20Views&color=1F6FEB&style=for-the-badge" alt="Profile views" />
 
